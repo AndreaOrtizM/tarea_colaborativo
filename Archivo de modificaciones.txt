@@ -1,3 +1,9 @@
 Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
 
 Andrea.
+
+Jorge Sayavedra
+
+El repositorio remoto actualizado se puede encontrar en las url's
+https://github.com/AndreaOrtizM/tarea_colaborativo
+https://github.com/jdsaygo/tarea_colaborativo-1
